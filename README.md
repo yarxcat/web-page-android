@@ -5,7 +5,7 @@ Essa página foi feita com base nos materiais e didatica do [Prof. Gustavo Guana
 Aqui estão aplicados todos os conhecimentos adquiridos nos módulo 01 e 02 do curso de HTML e CSS do Curso em video.
 
 ## O que tem de diferente?
-Links personalizados, utilização de divs, box-model, imagens e videos dinamicos, trabalho com cores e estilos e centralização de objetos na página.
+Links personalizados e interativos, utilização de divs, box-model, imagens e videos dinamicos, trabalho com cores e estilos e centralização de objetos na página.
 
 ## 🔌 Techs
 
