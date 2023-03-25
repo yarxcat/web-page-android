@@ -2,6 +2,8 @@
 
 Essa página foi feita com base nos materiais e didatica do [Prof. Gustavo Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n).
 
+A página foi criada no estilo de artigo.
+
 Aqui estão aplicados todos os conhecimentos adquiridos nos módulo 01 e 02 do curso de HTML e CSS do Curso em video.
 
 ## O que tem de diferente?
