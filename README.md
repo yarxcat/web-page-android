@@ -9,6 +9,8 @@ Aqui estão aplicados todos os conhecimentos adquiridos nos módulo 01 e 02 do c
 ## O que tem de diferente?
 Links personalizados e interativos, utilização de divs, box-model, imagens e videos dinamicos, trabalho com cores e estilos e centralização de objetos na página.
 
+[Veja o resultado aqui !!📱 💻](https://yarxcat.github.io/web-page-android/)
+
 ## 🔌 Techs
 
 * [HTML5](https://www.w3.org/html/): Linguagem de marcação para a World Wide Web;
