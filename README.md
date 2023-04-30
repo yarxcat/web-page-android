@@ -1,4 +1,5 @@
 # Página web sobre o Android
+`All content here is for educational and research purposes.`
 
 Essa página foi feita com base nos materiais e didatica do [Prof. Gustavo Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n).
 
